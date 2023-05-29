@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/magjoker/COMEDOWN-MACHINE#readme",
   "dependencies": {
+    "file-system": "^2.2.2",
     "inquirer": "^8.2.4"
   }
 }
